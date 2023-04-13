@@ -1,0 +1,26 @@
+//classes were made for the purpose of this project by kajmeter for sfml//
+
+//BUTTON//
+
+including button class
+'#include "classes/button.h"'
+
+declaration of button
+'button name(outlineColor,fillColor,textColor,thickness,sizeofx,sizeofy,
+       positionx,positiony,Text,textSize);'
+
+drawing button
+
+'window.draw(name);'
+
+changing path of font
+'name.setFont("path"); 
+//wip searching for font
+
+
+you can access various components:
+shape
+buttonText
+
+
+
